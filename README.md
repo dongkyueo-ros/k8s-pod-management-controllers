@@ -2,12 +2,12 @@
 
 ![K8S_Pod_Management_Controller (dongkyu9303@gmail.com)](docs/assets/K8S_Pod_Management_Controller.png)
 
-이 문서는 Kubernetes에서 파드를 관리하는 세 가지 주요 컨트롤러인 **`Deployment`, `DaemonSet`, `StatefulSet`**의 역할과 차이점을 설명합니다.
+이 문서는 Kubernetes에서 파드를 관리하는 세 가지 주요 컨트롤러인 `Deployment`, `DaemonSet`, `StatefulSet`의 역할과 차이점을 설명합니다.
 각 컨트롤러의 목적, 주요 기능, 사용 사례 및 기본 YAML 예시를 제공하여, 애플리케이션의 특성에 맞게 올바른 컨트롤러를 선택하고 배포하는 데 도움을 주고자 합니다.
 
 ## Overview
 
-Kubernetes에서 **`Deployment`, `DaemonSet`, `StatefulSet`**은 파드를 관리하는 컨트롤러지만, 각각 목적이 다릅니다.
+Kubernetes에서 `Deployment`, `DaemonSet`, `StatefulSet`은 파드를 관리하는 컨트롤러지만, 각각 목적이 다릅니다.
 
 - **Deployment:** 무상태 애플리케이션의 배포와 롤링 업데이트에 최적화되어 복제본 관리를 지원합니다.
 - **DaemonSet:** 각 노드에 단일 파드를 배포해 로그 수집, 모니터링 등 노드 단위 서비스에 적합합니다.
