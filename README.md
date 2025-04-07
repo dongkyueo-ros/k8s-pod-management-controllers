@@ -1,5 +1,9 @@
 # k8s-pod-management-controllers
-Kubernetes Pod Management Controllers: Deployment, DaemonSet, StatefulSet
+
+![K8S_Pod_Management_Controller.png](attachment:2d23f905-48be-42f1-bbe8-c605411a5cd0:K8S_Pod_Management_Controller.png)
+
+이 문서는 Kubernetes에서 파드를 관리하는 세 가지 주요 컨트롤러인 Deployment, DaemonSet, StatefulSet의 역할과 차이점을 설명합니다.
+각 컨트롤러의 목적, 주요 기능, 사용 사례 및 기본 YAML 예시를 제공하여, 애플리케이션의 특성에 맞게 올바른 컨트롤러를 선택하고 배포하는 데 도움을 주고자 합니다.
 
 ## Overview
 
