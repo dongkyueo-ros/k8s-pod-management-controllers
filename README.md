@@ -62,7 +62,7 @@ spec:
 
 ![Kubernetes DaemontSet (dongkyu9303@gmail.com)](docs/assets/K8S_DaemonSet.png)
 
-<img src="docs/assets/K8S_DaemonSet.png" alt="Kubernetes DaemontSet (dongkyu9303@gmail.com)" width="500px">
+<img src="docs/assets/K8S_DaemonSet.png" alt="Kubernetes DaemontSet (dongkyu9303@gmail.com)" width="800px">
 
 ### Key Points
 
