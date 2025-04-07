@@ -62,6 +62,8 @@ spec:
 
 ![Kubernetes DaemontSet (dongkyu9303@gmail.com)](docs/assets/K8S_DaemonSet.png)
 
+<img src="docs/assets/K8S_DaemonSet.png" alt="Kubernetes DaemontSet (dongkyu9303@gmail.com)" width="500px">
+
 ### Key Points
 
 - **Node-Specific Applications(노드별 애플리케이션)**
