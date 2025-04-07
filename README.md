@@ -11,7 +11,7 @@ Kubernetes에서 **Deployment, DaemonSet, StatefulSet**은 파드를 관리하�
 
 ## Deployment
 
-<img src="docs/assets/K8S_Deployment.png" alt="Kubernetes Deployment (dongkyu9303@gmail.com)" width="500px">
+<img src="docs/assets/K8S_Deployment.png" alt="Kubernetes Deployment (dongkyu9303@gmail.com)" width="600px">
 
 ### Key Points
 
@@ -58,7 +58,7 @@ spec:
 
 ## DaemonSet
 
-<img src="docs/assets/K8S_DaemonSet.png" alt="Kubernetes DaemontSet (dongkyu9303@gmail.com)" width="500px">
+<img src="docs/assets/K8S_DaemonSet.png" alt="Kubernetes DaemontSet (dongkyu9303@gmail.com)" width="600px">
 
 ### Key Points
 
